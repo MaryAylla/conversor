@@ -1,0 +1,1 @@
+Projeto desenvolvido para converter valores entre diferentes moedas. Utilizando lógica de cálculo e possivelmente uma API de câmbio (se aplicada), a aplicação permite inserir um valor, selecionar as moedas de origem e destino, e visualizar o resultado. Foi uma ótima forma de praticar manipulação de formulários, cálculos matemáticos e interatividade com o usuário.
